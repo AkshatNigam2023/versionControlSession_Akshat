@@ -1,3 +1,3 @@
-int square(int num){
-  return num*num;
+int print(int num){
+  return num;
 }
